@@ -1,6 +1,4 @@
-[Home](../README.md) 
-
-###Unix commands
+[Home](../README.md) - [NPM](../docs/npm.md) - [Unix](../docs/unix-commands.md)  
 
 | Command |    Description  |
 | ------------- |: -------------: |

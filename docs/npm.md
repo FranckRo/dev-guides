@@ -1,6 +1,4 @@
-[Home](../README.md) 
-
-###NPM commands
+[Home](../README.md) - [NPM](../docs/npm.md) - [Unix](../docs/unix-commands.md)  
 
 - <code> npm login (or npm adduser) </code>
 _Connect to the default repository_ 
