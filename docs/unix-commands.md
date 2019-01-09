@@ -1,16 +1,16 @@
+[Home](../README.md) 
 
-| Goal |     Command |
+###Unix commands
+
+| Command |    Description  |
 | ------------- |: -------------: |
-| Find running Unix processus by their name | <code>ps -ef &#124; grep *name*</code> |
-| See disk usage | ```df -h _path_```|
-| Identify biggest files       |        ```du -hs _path_```        |
+| <code>ps -ef &#124; grep yourSearch </code> | Find running processus by their name |
+| <code>df -h path </code> | See disk usage |
+| <code>du -hs path </code> | Identify biggest files |
 
- : ```ps -ef | grep *name* ```
- ## 
  
 
-
-Estimate space disk usage to identify biggest files : 
+ 
 
 
 
