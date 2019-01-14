@@ -1,4 +1,4 @@
-[Home](../README.md) - [NPM](../docs/npm.md) - [Unix](../docs/unix-commands.md) - [Maven](../docs/maven.md)
+[Home](../README.md) - [NPM](../docs/npm.md) - [Unix](../docs/unix-commands.md) - [Windows](../docs/windows.md) - [Maven](../docs/maven.md)
 
 | Command |    Description  |
 | ------------- |: -------------: |
