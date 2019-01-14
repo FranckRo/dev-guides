@@ -7,7 +7,7 @@
 
 ## How to clean specifics files created by previous installations (.zip in this sample)
 Add to your plugins section of your pom.xml
-<code>
+```
 <plugin>
     <artifactId>maven-clean-plugin</artifactId>
     <configuration>
@@ -22,4 +22,4 @@ Add to your plugins section of your pom.xml
         </filesets>
     </configuration>
 </plugin>
-</code>
+```
