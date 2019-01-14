@@ -6,7 +6,7 @@
 
 
 ## How to clean specifics files created by previous installations (.zip in this sample)
-Add to your pom.xml, sections _<plugins>_
+Add to your plugins section of your pom.xml
 <code>
 <plugin>
     <artifactId>maven-clean-plugin</artifactId>
