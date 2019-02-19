@@ -5,7 +5,7 @@
 | <code>mvn versions:set -DnewVersion=1.0.3-SNAPSHOT </code> | Upgrade version of components (explore your directories to update referenced dependencies) |
 
 
-## How to clean specifics files created by previous installations (.zip in this sample)
+#### How to clean specifics files created by previous installations (.zip in this sample)
 Add to your plugins section of your pom.xml
 ```
 <plugin>
