@@ -6,5 +6,6 @@
 | <code>docker logs processId|processName </code> | Show logs for the process identified by name or processus id  |
   <code>docker logs -f --tail 200 processId|processName </code> | Show logs for the process identified by name or processus id |
   <code>docker system prune </code> | Remove stopped containers, not used networks, dangling cache or images. Before docker v 17.06, volumes were also pruned. Since, we have to specify the --volumes flag|
+  <code>docker exec -it containerId bash</code> | Lance un shell dans un container | 
   
 
